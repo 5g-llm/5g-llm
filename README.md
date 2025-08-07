@@ -1,7 +1,7 @@
 # LLM Response Generator
 This project allows generating responses from API-based and GUI-based Large Language Models (LLMs).
 ## Usage
-### API-Based LLMs (OpenAI / DeepSeek))
+### API-Based LLMs (OpenAI / DeepSeek)
 To generate responses from API-based LLMs, run the following command:
 ```
 python3 main.py <LLM name>
