@@ -1,0 +1,25 @@
+[
+  {
+    "ue_ul_handle": "null",
+    "dl_reply": "null",
+    "command_mode": "null",
+    "dl_params": "null"
+  },
+  {
+    "ue_ul_handle": "registration_request",
+    "dl_reply": "authentication_request",
+    "command_mode": "send",
+    "dl_params": {
+      "ngksi_tsc": "0",
+      "ngksi_ksi": "0",
+      "authentication_parameter_autn": "2000",
+      "security_header_type": "OGS_NAS_SECURITY_HEADER_INTEGRITY_PROTECTED_AND_CIPHERED"
+    }
+  },
+  {
+    "ue_ul_handle": "null",
+    "dl_reply": "null",
+    "command_mode": "null",
+    "dl_params": "null"
+  }
+]

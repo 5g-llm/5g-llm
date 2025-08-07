@@ -1,0 +1,26 @@
+[
+  {
+    "ue_ul_handle": "null",
+    "dl_reply": "null",
+    "command_mode": "null",
+    "dl_params": "null"
+  },
+  {
+    "ue_ul_handle": "identity_response",
+    "dl_reply": "authentication_request",
+    "command_mode": "send",
+    "dl_params": {
+      "ngksi_tsc": "0",
+      "ngksi_ksi": "00",
+      "abba": "2",
+      "authentication_parameter_rand": "5555555555555555555",
+      "authentication_parameter_autn": "5555555555555555555"
+    }
+  },
+  {
+    "ue_ul_handle": "null",
+    "dl_reply": "null",
+    "command_mode": "null",
+    "dl_params": "null"
+  }
+]

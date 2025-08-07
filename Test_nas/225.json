@@ -1,0 +1,25 @@
+[
+  {
+    "ue_ul_handle": "null",
+    "dl_reply": "null",
+    "command_mode": "null",
+    "dl_params": "null"
+  },
+  {
+    "ue_ul_handle": "null",
+    "dl_reply": "null",
+    "command_mode": "null",
+    "dl_params": "null"
+  },
+  {
+    "ue_ul_handle": "service_request",
+    "dl_reply": "service_reject",
+    "command_mode": "send",
+    "dl_params": {
+      "security_header_type": "OGS_NAS_SECURITY_HEADER_INTEGRITY_PROTECTED_AND_NEW_SECURITY_CONTEXT",
+      "eap_message": "100",
+      "gmm_cause": "OGS_5GMM_CAUSE_INSUFFICIENT_RESOURCES_FOR_SLICE_AND_DNN",
+      "t3346_value": "100"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "ue_ul_handle": "null",
+    "dl_reply": "null",
+    "command_mode": "null",
+    "dl_params": "null"
+  },
+  {
+    "ue_ul_handle": "null",
+    "dl_reply": "null",
+    "command_mode": "null",
+    "dl_params": "null"
+  },
+  {
+    "ue_ul_handle": "service_request",
+    "dl_reply": "security_mode_command",
+    "command_mode": "send",
+    "dl_params": {
+      "ngksi_tsc": "3",
+      "ngksi_ksi": "1",
+      "abba": "0000",
+      "security_header_type": "OGS_NAS_SECURITY_HEADER_PLAIN_NAS_MESSAGE",
+      "security_mode_command_security": "disabled"
+    }
+  }
+]
